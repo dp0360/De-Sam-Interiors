@@ -1,0 +1,1 @@
+This is a dummy website for an Interior Design Firm. It was developed using HTML5 and CSS3 under Web2.0 design guidelines.
